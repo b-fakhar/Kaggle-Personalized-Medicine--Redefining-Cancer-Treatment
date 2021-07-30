@@ -32,4 +32,12 @@ training/test_variants provides the information about the genetic mutations, whe
 
 Note: Some of the test data is machine-generated to prevent hand labeling. 
 
+# Summary
+-	Implemented a complete Data Science pipeline by considering EDA, Feature Engineering, Model Learning, Model Evaluation, etc.
+-	Preprocessed the text data using NLTK Library in Python.
+-	Transfomed categorical features using One-Hot-Encoding and Response Encoding techniques.
+-	Compared classification models (RF, kNN, LR, LSVM, NB) using different evaluation metrics such as Multi Class Log-Loss metric.
+-	Obtained 1.06 Multi Class Log Loss by implementing LR model.
+
+•	SKILLS & Tools:  ML, NLP, Python, Matplotlib, Seaborn. 
 
