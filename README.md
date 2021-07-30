@@ -7,7 +7,7 @@ Although it is know that genetic testing is going to disrupt the way diseases li
 A cancer tumor can have thousands of genetic mutations. Classifying every single genetic mutation based on evidence from text-based clinical literature is a very time-consuming task since a clinical pathologist has to manually review and classify every single genetic mutation based on evidence from text-based clinical literature.
 
 
-#  Objective:
+#  Objectives:
 
 - Develop a Machine Learning algorithm to classify the mutations that contribute to tumor growth (drivers) from the neutral mutations (passengers) based on clinical evidence (text).
 
