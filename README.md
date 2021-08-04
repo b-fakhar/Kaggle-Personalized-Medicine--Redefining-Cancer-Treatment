@@ -1,4 +1,4 @@
-# Personalized Medicine-Redefining Cancer Treatment (Kaggle-Project)
+# Personalized Medicine-Redefining Cancer Treatment (Kaggle Project)
 https://www.kaggle.com/c/msk-redefining-cancer-treatment
 
 # Problem Statement
