@@ -39,5 +39,4 @@ Note: Some of the test data is machine-generated to prevent hand labeling.
 -	Compared classification models (RF, kNN, LR, LSVM, NB) using different evaluation metrics such as Multi Class Log-Loss metric.
 
 
-•	SKILLS & Tools: ML, NLP, Python, Matplotlib, Seaborn. 
-
+•	SKILLS & Tools: ML, NLP, Feature Engineering, Hyperparameter Tuning, Python, Matplotlib, Seaborn. 
