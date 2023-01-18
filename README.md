@@ -15,8 +15,6 @@ A cancer tumor can have thousands of genetic mutations. Classifying every single
 
 - Have a highly interpritable model since a medical practitionar needs to provide proper reasonining on why ML algorithm is predicting any class.
 
-Note: This is not a trivial task since interpreting clinical evidence is very challenging even for human specialists. Therefore, modeling the clinical evidence (text) will be critical for the success.
-
 # Dataset:
 This Kaggle project has two traning datasets, which are linked via the ID field:
 - training_variants - a comma separated file containing the description of the genetic mutations used for training. Fields are
