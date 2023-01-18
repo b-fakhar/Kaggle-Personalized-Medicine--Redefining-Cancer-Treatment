@@ -20,8 +20,8 @@ This Kaggle project has two traning datasets, which are linked via the ID field:
 - training_variants - a comma separated file containing the description of the genetic mutations used for training. Fields are
     - ID (the id of the row used to link the mutation to the clinical evidence).
     - Gene (the gene where this genetic mutation is located).
-    - Variation (the aminoacid change for this mutations). 
-    - Class (1-9 the class this genetic mutation has been classified on).
+    - Variation (the amino acid change for this mutations). 
+    - Class (The genetic mutation has been classified on 9 classes).
 - training_text - a double pipe (||) delimited file that contains the clinical evidence (text) used to classify genetic mutations. Fields are 
     - ID (the id of the row used to link the clinical evidence to the genetic mutation)
     - Text (the clinical evidence used to classify the genetic mutation)
