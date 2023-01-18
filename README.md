@@ -2,7 +2,7 @@
 https://www.kaggle.com/c/msk-redefining-cancer-treatment
 
 # Problem Statement
-Although it is know that genetic testing is going to disrupt the way diseases like cancer are treated, this is only partially happening due to the huge amount of manual work this task required.
+Although it is known that genetic testing is going to disrupt the way diseases like cancer are treated, this is only partially happening due to the huge amount of manual work this task required.
 
 A cancer tumor can have thousands of genetic mutations. Classifying every single genetic mutation based on evidence from text-based clinical literature is a very time-consuming task since a clinical pathologist has to manually review and classify every single genetic mutation based on evidence from text-based clinical literature.
 
